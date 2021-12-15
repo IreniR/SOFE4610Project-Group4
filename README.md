@@ -23,4 +23,4 @@ Section 3: Arduino Code<br>
 Section 4: Design Deployment Decisions<br>
 Section 5: Project Design and Architecture<br>
 &nbsp;&nbsp;   Acceptance Tests<br>
-Section 6: Screendumps<br>
+Section 6: Screen Dumps<br>
