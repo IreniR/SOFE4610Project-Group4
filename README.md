@@ -21,6 +21,7 @@ Section 2: Architecture design<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.2   Sequence diagram<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.3   Deployment diagram<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.4   Deployment design descisions <br>
-Section 3: Arduino Code<br>Tests UIProject Design and Architecture<br>
-&nbsp;&nbsp;&nbsp;&nbsp;5.1   Acceptance Tests<br>
+Section 3: Arduino Code<br>
+Section 4: Tests UI<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4.1   Acceptance Tests<br>
 Section 5: Screen Dumps<br>
