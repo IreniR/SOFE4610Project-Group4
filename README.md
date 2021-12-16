@@ -25,7 +25,7 @@ Section 3: Arduino Code<br>
 Section 4: Screen Dumps<br>
 Section 5: Tests<br>
 
-HOW TO RUN APP:
+**HOW TO RUN APP:**
 1. Open the project in Android Studio and build the project.
 2. Run the project using an emulator device or Android device running a minimum API version of 30.
 3. After the app has launched, you may register for an account.
