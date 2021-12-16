@@ -17,6 +17,7 @@ The end-user must be registered to enter the application. The login process fetc
 **TABLE OF CONTENTS** <br>
 Section 1: Android app <br>
 Section 2: Architecture design<br>
+<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;2.1   Architecture diagram and Description<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.2   Deployment Design Decisions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.3   Deployment Diagram<br>
@@ -26,3 +27,13 @@ Section 4: Screen Dumps<br>
 Section 5: Tests<br>
 
 
+=======
+&nbsp;&nbsp;&nbsp;&nbsp;2.1   Architecture diagram<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.2   Sequence diagram<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.3   Deployment diagram<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.4   Deployment design descisions <br>
+Section 3: Arduino Code<br>
+Section 4: Tests UI<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4.1   Acceptance Tests<br>
+Section 5: Screen Dumps<br>
+>>>>>>> 75875059f63a15f04ae8301fe6b989127f0d9f38
