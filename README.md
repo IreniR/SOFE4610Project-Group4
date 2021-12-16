@@ -24,3 +24,12 @@ Section 2: Architecture design<br>
 Section 3: Arduino Code<br>
 Section 4: Screen Dumps<br>
 Section 5: Tests<br>
+
+HOW TO RUN APP:
+1. Open the project in Android Studio and build the project.
+2. Run the project using an emulator device or Android device running a minimum API version of 30.
+3. After the app has launched, you may register for an account.
+4. Once account has been registered, you can log into the account.
+5. After logging in, you will be taken to the main screen where you can start reading temperature data from the temperature sensor (if it's connected to the Internet).
+6. You may enter a temperature limit value to set a desired monitoring temperature and then enter a threshold that the sensor can read above/below before sounding the alarm.
+7. If the temperature falls above or below the limit threshold, an alarm will sound and a notification will be displayed on the app.
