@@ -19,7 +19,8 @@ Section 1: Android app <br>
 Section 2: Architecture design<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.1   Architecture diagram<br>
 Section 3: Arduino Code<br>
-Section 4: Design Deployment Decisions<br>
+Section 4.0: Design Deployment Decisions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4.1   Deployment diagram<br>
 Section 5: Project Design and Architecture<br>
 &nbsp;&nbsp;&nbsp;&nbsp;5.1   Acceptance Tests<br>
 &nbsp;&nbsp;&nbsp;&nbsp;5.2   Sequence diagram<br>
